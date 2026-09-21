@@ -1,0 +1,11 @@
+{
+  "manifest_version": 2,
+  "name": "hallieuwu",
+  "version": "1 ig",
+  "theme": {
+      "colors": {
+        "frame": "#ffe0ff",
+        "tab_background_text": "#9e009e"
+      }
+    }
+}
